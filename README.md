@@ -69,9 +69,7 @@ To run applications, you have proper installation for react native then pull cod
 
 
 
-## Demo
 
-https://www.youtube.com/watch?v=97nYEI496R0&feature=youtu.be
 
 
 
