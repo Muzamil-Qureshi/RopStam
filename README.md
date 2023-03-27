@@ -1,7 +1,7 @@
 
 # RopStam Task
 
-I applied for a job for react native in Ropstam  and you give me a task for crud operations with screens so I perform these with this screen
+I haved performed crud screen operations here
 splash,
 login,
 signup,
